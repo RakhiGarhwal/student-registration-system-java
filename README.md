@@ -11,7 +11,7 @@ It demonstrates database connectivity and basic CRUD operations using JDBC.
 - Login Authentication  
 - Dashboard for Students  
 - View & Display Records from Database  
-- (Optional) Attendance Fetch Module for future enhancement  
+- Attendance Fetch Module for future enhancement  
 
 ---
 
@@ -34,11 +34,8 @@ It demonstrates database connectivity and basic CRUD operations using JDBC.
 
 ---
 
-## 📂 Repository Status
-🔹 *Currently only README uploaded — Project implementation in progress.*  
-🔹 Code & modules will be added step-by-step.
+
 
 ---
 
-## 📧 Contact (Optional Add)
-**Made by:** Rakhi Garhwal  
+
